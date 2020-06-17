@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<jisu>
+	<areacode>11D10000</areacode>
+	<areaname>강원영서</areaname>
+	<tm>2020/06/08</tm>
+	<tmyyyy>2020</tmyyyy>
+	<tmmm>06</tmmm>
+	<tmdd>08</tmdd>
+	<tmyo>월</tmyo>
+	<ndate num='0'>
+		<jtitle>
+			<name>나들이</name>
+			<jfix>나들이</jfix>
+			<num>01</num>
+			<jnum>80</jnum>
+			<jtext>더워서 걱정이네요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>빨래</name>
+			<jfix>빨래</jfix>
+			<num>02</num>
+			<jnum>90</jnum>
+			<jtext>빨래하기 아주 좋은 날씨</jtext>
+		</jtitle>
+		<jtitle>
+			<name>세차</name>
+			<jfix>세차</jfix>
+			<num>03</num>
+			<jnum>90</jnum>
+			<jtext>세차하기 좋은날</jtext>
+		</jtitle>
+		<jtitle>
+			<name>난방</name>
+			<jfix>난방</jfix>
+			<num>04</num>
+			<jnum>20</jnum>
+			<jtext>난방은 필요없어요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>불조심</name>
+			<jfix>불조심</jfix>
+			<num>05</num>
+			<jnum>20</jnum>
+			<jtext>소화기 점검은 평소에</jtext>
+		</jtitle>
+		<jtitle>
+			<name>운동</name>
+			<jfix>운동</jfix>
+			<num>06</num>
+			<jnum>90</jnum>
+			<jtext>운동으로 스트레스 푸세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>감기</name>
+			<jfix>감기</jfix>
+			<num>07</num>
+			<jnum>60</jnum>
+			<jtext>저항력을 높이세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>공해</name>
+			<jfix>공해</jfix>
+			<num>08</num>
+			<jnum>60</jnum>
+			<jtext>대체로 좋은 편</jtext>
+		</jtitle>
+		<jtitle>
+			<name>냉방</name>
+			<jfix>냉방</jfix>
+			<num>09</num>
+			<jnum>60</jnum>
+			<jtext>활동시간에는 꼭 냉방 필요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>불쾌</name>
+			<jfix>불쾌</jfix>
+			<num>10</num>
+			<jnum>75</jnum>
+			<jtext>친절하게 행동하세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>자외선</name>
+			<jfix>자외선</jfix>
+			<num>11</num>
+			<jnum>90</jnum>
+			<jtext>양산을 사용하세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>모기</name>
+			<jfix>모기</jfix>
+			<num>12</num>
+			<jnum>80</jnum>
+			<jtext>모기약 필요해요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>부패</name>
+			<jfix>부패</jfix>
+			<num>13</num>
+			<jnum>40</jnum>
+			<jtext>냉장보관이 안전해요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>골프</name>
+			<jfix>골프</jfix>
+			<num>33</num>
+			<jnum>80</jnum>
+			<jtext>라운딩에 좋은 조건입니다.</jtext>
+		</jtitle>
+	</ndate>
+	<ndate num='1'>
+		<jtitle>
+			<name>나들이</name>
+			<jfix>나들이</jfix>
+			<num>01</num>
+			<jnum>80</jnum>
+			<jtext>더워서 걱정이네요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>빨래</name>
+			<jfix>빨래</jfix>
+			<num>02</num>
+			<jnum>90</jnum>
+			<jtext>빨래하기 아주 좋은 날씨</jtext>
+		</jtitle>
+		<jtitle>
+			<name>세차</name>
+			<jfix>세차</jfix>
+			<num>03</num>
+			<jnum>90</jnum>
+			<jtext>세차할 좋은 기회예요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>난방</name>
+			<jfix>난방</jfix>
+			<num>04</num>
+			<jnum>20</jnum>
+			<jtext>보일러 가동 불필요해요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>불조심</name>
+			<jfix>불조심</jfix>
+			<num>05</num>
+			<jnum>20</jnum>
+			<jtext>소화기 점검은 평소에</jtext>
+		</jtitle>
+		<jtitle>
+			<name>운동</name>
+			<jfix>운동</jfix>
+			<num>06</num>
+			<jnum>90</jnum>
+			<jtext>운동으로 스트레스 푸세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>감기</name>
+			<jfix>감기</jfix>
+			<num>07</num>
+			<jnum>60</jnum>
+			<jtext>실내공기 바꿔주세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>공해</name>
+			<jfix>공해</jfix>
+			<num>08</num>
+			<jnum>60</jnum>
+			<jtext>대체로 좋은 편</jtext>
+		</jtitle>
+		<jtitle>
+			<name>냉방</name>
+			<jfix>냉방</jfix>
+			<num>09</num>
+			<jnum>60</jnum>
+			<jtext>적당한 냉방이 필요해요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>불쾌</name>
+			<jfix>불쾌</jfix>
+			<num>10</num>
+			<jnum>75</jnum>
+			<jtext>친절하게 행동하세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>자외선</name>
+			<jfix>자외선</jfix>
+			<num>11</num>
+			<jnum>80</jnum>
+			<jtext>장시간 야외활동은 위험해요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>모기</name>
+			<jfix>모기</jfix>
+			<num>12</num>
+			<jnum>30</jnum>
+			<jtext>모기 걱정 없어요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>부패</name>
+			<jfix>부패</jfix>
+			<num>13</num>
+			<jnum>40</jnum>
+			<jtext>냉장보관이 안전해요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>골프</name>
+			<jfix>골프</jfix>
+			<num>33</num>
+			<jnum>80</jnum>
+			<jtext>라운딩에 좋은 조건입니다.</jtext>
+		</jtitle>
+	</ndate>
+	<ndate num='2'>
+		<jtitle>
+			<name>나들이</name>
+			<jfix>나들이</jfix>
+			<num>01</num>
+			<jfix></jfix>
+			<jnum>70</jnum>
+			<jtext>더위먹지 않도록 주의</jtext>
+		</jtitle>
+		<jtitle>
+			<name>빨래</name>
+			<jfix>빨래</jfix>
+			<num>02</num>
+			<jfix></jfix>
+			<jnum>70</jnum>
+			<jtext>대체로 잘 말라요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>세차</name>
+			<jfix>세차</jfix>
+			<num>03</num>
+			<jfix></jfix>
+			<jnum>90</jnum>
+			<jtext>광택도 내보세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>난방</name>
+			<jfix>난방</jfix>
+			<num>04</num>
+			<jfix></jfix>
+			<jnum>20</jnum>
+			<jtext>보일러 가동 불필요해요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>불조심</name>
+			<jfix>불조심</jfix>
+			<num>05</num>
+			<jfix></jfix>
+			<jnum>20</jnum>
+			<jtext>소화기 점검은 평소에</jtext>
+		</jtitle>
+		<jtitle>
+			<name>운동</name>
+			<jfix>운동</jfix>
+			<num>06</num>
+			<jfix></jfix>
+			<jnum>70</jnum>
+			<jtext>경기 즐길만 합니다</jtext>
+		</jtitle>
+		<jtitle>
+			<name>감기</name>
+			<jfix>감기</jfix>
+			<num>07</num>
+			<jfix></jfix>
+			<jnum>60</jnum>
+			<jtext>실내공기 바꿔주세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>공해</name>
+			<jfix>공해</jfix>
+			<num>08</num>
+			<jfix></jfix>
+			<jnum>60</jnum>
+			<jtext>대체로 좋은 편</jtext>
+		</jtitle>
+		<jtitle>
+			<name>냉방</name>
+			<jfix>냉방</jfix>
+			<num>09</num>
+			<jfix></jfix>
+			<jnum>60</jnum>
+			<jtext>적당한 냉방이 필요해요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>불쾌</name>
+			<jfix>불쾌</jfix>
+			<num>10</num>
+			<jfix></jfix>
+			<jnum>80</jnum>
+			<jtext>느긋한 마음으로 생활하세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>자외선</name>
+			<jfix>자외선</jfix>
+			<num>11</num>
+			<jfix></jfix>
+			<jnum>90</jnum>
+			<jtext>바깥활동을 가급적 피하세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>모기</name>
+			<jfix>모기</jfix>
+			<num>12</num>
+			<jfix></jfix>
+			<jnum>40</jnum>
+			<jtext>조금만 신경쓰세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>부패</name>
+			<jfix>부패</jfix>
+			<num>13</num>
+			<jfix></jfix>
+			<jnum>70</jnum>
+			<jtext>부패 조심하세요</jtext>
+		</jtitle>
+		<jtitle>
+			<name>골프</name>
+			<jfix>골프</jfix>
+			<num>33</num>
+			<jfix></jfix>
+			<jnum>80</jnum>
+			<jtext>라운딩에 좋은 조건입니다.</jtext>
+		</jtitle>
+	</ndate>
+</jisu>
